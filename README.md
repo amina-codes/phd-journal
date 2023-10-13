@@ -1,6 +1,22 @@
 # 👩🏻‍💻 phd-journal
 PhD work + accountability journal
 
+# Week 3: Oct _, 2023
+
+# Week 2: Oct 9-12, 2023
+
+Ok, I almost thought I'd skipped a week -- this is how already busy my mind is... But! Significant progress this week to the project onboarding with Unity and catching up with all of the technical details of the lab projects. Also met with my advisor 1:1 and discussed a plan for starting my funding applications. As always, need to get a gew things ready for those and also take a mental note about two personal projects happening at the same time.
+
+To Do:
+- [ ] Request two reference letters
+- [ ] Write essay responses
+- [ ] Lit review for the new project -> also helpful for the above
+- [ ] Unity troubleshooting for the lang. localization
+- [ ] 201 HW
+- [ ] Schedule two meetings for the personal projects
+- [ ] Find out if there's a space to test Arduino stuff @ UCSC
+- [ ] Do a p5 refresher when the time comes
+
 # Week 1: Oct 2-6, 2023
 
 ## Tasks Completed:
