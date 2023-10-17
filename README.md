@@ -1,7 +1,13 @@
 # 👩🏻‍💻 phd-journal
 PhD work + accountability journal
 
-# Week 3: Oct _, 2023
+# Week 3: Oct 16-20, 2023
+
+Tue:
+- got some Arduino things from the SET lab
+- lit review additions
+- checking unity but no significant progress on that front yet
+- class work
 
 # Week 2: Oct 9-12, 2023
 
