@@ -1,3 +1,83 @@
+My understanding of the “little languages” from a technical perspective is that they can make one’s coding experience better. Is that their only requirement? Clarity and ease of use? Judging on these two criteria, I had several “easy” and “clear” coding experiences that made my life better (and faster).
+
+1. Python.
+
+I must admit, I only learned Python after I knew some foundational programming concepts and after learning C++. In that sense, I was surprised to learn how fast and efficient it is compared to, for example, constantly and annoyingly allocating memory/space/etc.
+
+What one can do with more than 10 lines of C++ code, Python can do in just 1 (well, thanks to the built-in features and libraries):
+```
+a = (1, 11, 2)
+x = sorted(a)
+print(x)
+```
+
+vs.
+
+
+```
+// C++ program to demonstrate descending order sort using
+
+// greater<>().
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+
+int main()
+
+{
+
+int arr[] = { 1, 5, 8, 9, 6, 7, 3, 4, 2, 0 };
+
+int n = sizeof(arr) / sizeof(arr[0]);
+
+sort(arr, arr + n, greater<int>());
+
+cout << "Array after sorting : \n";
+
+for (int i = 0; i < n; ++i)
+
+cout << arr[i] << " ";
+
+return 0;
+
+}
+```
+
+
+2. Processing.
+
+A couple of folks already mentioned Processing, so I won’t spend too much time explaining what that is. I will just point that inside of Processing too, there are versions that are easier and more efficient yet produce the same graphical output. For example, p5.js (a version of Processing that eventually became an independent piece), in my observation, is easier in UX than Java Processing. In the same way, Python Processing > Java Processing (partly also because Java is like C++ and requires a lot of allocation/memory/space work compared to js or py).
+
+```
+function setup() {
+
+  createCanvas(400, 400);
+
+}
+```
+
+
+```
+function draw() {
+
+  background(220);
+
+  // Draw a rectangle
+
+  rect(50, 50, 100, 80);
+  
+}
+```
+
+3. Slang.
+
+In “Little Languages”, a lot of the context comes from the programming experience in the 1990’s. During that time, an investment bank on Wall street developed their own “little language” based on C++ to make their operations more secure and their programmers happier. Fast-forward to 2022, I was interning in this firm, and the “little language” (called Slang, for Securities LANGuage) was still alive, up, and running. As you can see, I am not the biggest fan of C++, but it took me less than 2 weeks to became proficient at Slang and even start writing some sensible code. Unfortunately, I cannot share any snippets of code as I’ve lost access to them, but Slang, to me, is a version of C++ if Python and C++ had a baby. :D
+
+Overall, if we were to simplify this, what is the greatest difference between a "little language" and, say, a library? Both can make the coding UX easier and more efficient. Then, is there another definition of a "little language" that I do not understand?
+
+
 # 👩🏻‍💻 phd-journal
 PhD work + accountability journal
 
