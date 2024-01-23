@@ -1,6 +1,14 @@
 # 👩🏻‍💻 phd-journal
 PhD work + accountability journal
 
+```
+# DEFINE life
+def birth(when):
+  hello_mom()
+  hi_dad()
+  who_am_I(?)
+```
+
 # Week 3: Oct 16-20, 2023
 
 Tue:
