@@ -7,6 +7,39 @@ def birth(when):
   hello_mom()
   hi_dad()
   who_am_I(?)
+
+# Code Poem: The Echo of Silence
+
+def silence():
+    """
+    A function that echoes the silence.
+    """
+    print("...")
+    return
+
+def whisper(word):
+    """
+    A function that whispers a word softly.
+    """
+    print(f"Whispers: {word}")
+    return
+
+def echo_of_silence():
+    """
+    The echo of silence, a poem in code.
+    """
+    silence()
+    whisper("Fluttering leaves")
+    whisper("Moonlight shadows dance")
+    silence()
+    whisper("Softly spoken dreams")
+    whisper("Silent symphony")
+    silence()
+    print("Echo fades into the quiet night")
+
+# Invoke the echo_of_silence function
+echo_of_silence()
+
 ```
 
 # Week 3: Oct 16-20, 2023
